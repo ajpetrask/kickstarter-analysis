@@ -1,2 +1,3 @@
-# kickstarter-analysis
-Kickstarter Analysis
+Overview of Project: To visualize Kickstarter campaign outcomes based on launch dates and funding goals.
+Analysis and Challenges: The analysis began with "Theater Outcomes by Date" to analyze Theater ouctomes by years, sorting them by successful and failed. Then creating a line chart to visually see that data. The second part of the analysis was "Outcomes Based on Goals". We are looking for successful, failed and canceled projects using numbers and percentages. I found the second half of the analysis challenging due to the COUNTIFS() functions. I overcame the COUNTIFS challenge by attending open hours.
+Results: The most succesfull months for Theater launch dates are May and October. January and November are the least sucessful. Goals with less than 1000 had the highest success rate and lowest failed rate. I did not find limitations on this dataset. We could of also used bar graphs and pie charts.
